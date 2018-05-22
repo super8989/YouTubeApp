@@ -26,7 +26,6 @@ body {
 
 .container {
   width: 560px;
-
   background-color: #fff;
   margin: 0 auto;
 }
@@ -40,16 +39,16 @@ header, section {
 }
 
 section {
-  top: 50px;
+  top: 80px;
 }
 
 .logo {
   width: 120px;
-  padding: 10px;
+  padding: 0 0 5px 0;
 }
 
 main {
-  padding: 370px 18px 10px
+  padding: 400px 18px 10px
 }
 
 article {
